@@ -54,16 +54,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csdikshant&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csdikshant&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐️ **Thanks for visiting! Feel free to check out my projects & drop a star if you like them.**  
